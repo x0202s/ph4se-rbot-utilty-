@@ -2,4 +2,6 @@
 discord.gg/ph4se nuke bot + utility recreated by pan$i x alexy
 
 # Websites:
-[Pan$i](https://guns.lol/x0202s)
+[! Pan$i](https://guns.lol/x0202s)
+[Lone leaks](https://www.lone-best.xyz/leaks)
+# KHS x LONE ON TOP
