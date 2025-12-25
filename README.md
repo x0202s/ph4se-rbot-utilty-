@@ -5,3 +5,4 @@ discord.gg/ph4se nuke bot + utility recreated by pan$i x alexy
 [! Pan$i](https://guns.lol/x0202s) x
 [Lone leaks](https://www.lone-best.xyz/leaks)
 # KHS x LONE ON TOP
+- note: both files use the same requirements.txt
